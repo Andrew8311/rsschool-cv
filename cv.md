@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #rsschool-cv
 ___
 ## **Andrew Hileuski**
@@ -31,3 +32,7 @@ ___
 ___
 ### Language
 * Pre-intermediate
+=======
+#RS School super
+
+>>>>>>> 8c562bc8f1e99307b71b48de902440a4f1dcf339
