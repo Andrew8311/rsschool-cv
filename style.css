@@ -1,3 +1,62 @@
-body {
-color: red;
+header {
+    background-color: #778899;
 }
+.menu {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+    word-spacing: 50px;
+    text-align: center;
+}
+.menu a {
+    text-decoration: none;
+    font: 18px Arial;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: #2F4F4F;
+    
+}
+    .menu li {
+    display: inline;
+    }
+.foto {
+        position: absolute;
+        left: 600px; top: 80px;
+    }
+.text1 {
+    font: bold 48px Arial;
+    color: darkviolet;
+    text-align: left;
+    padding-left: 120px;
+    } 
+.text2 {
+        font: 24px Arial;
+        text-align: left;
+        text-indent: 100px;
+        text-decoration: underline;
+} 
+.text3 {
+    font: 18px Arial;
+    text-align: left;
+    text-indent: 60px;
+}    
+.text4 {
+    font: 18px Arial;
+    text-align: left;
+    text-indent: 100px;
+} 
+footer {
+    background-color: #778899;
+}
+    .block1 {
+    font: bold 18px Arial;
+    color: #2F4F4F;
+    text-align: center;
+    word-spacing: 50px;
+    text-decoration: none;
+}
+    
+
+
+
+
