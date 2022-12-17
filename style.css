@@ -1,11 +1,12 @@
 header {
-    background-color: #778899;
-}
+    background-color: #9aa1a8;
+    }
 .menu {
     list-style-type: none;
     padding-left: 0;
     margin: 0;
-    word-spacing: 50px;
+    display: flex;
+    justify-content: space-around;
     text-align: center;
 }
 .menu a {
@@ -21,7 +22,7 @@ header {
     }
 .foto {
         position: absolute;
-        left: 600px; top: 80px;
+        left: 600px; top: 50px;
     }
 .text1 {
     font: bold 48px Arial;
@@ -39,6 +40,8 @@ header {
     font: 18px Arial;
     text-align: left;
     text-indent: 60px;
+    list-style-type: none;
+
 }    
 .text4 {
     font: 18px Arial;
@@ -47,13 +50,19 @@ header {
 } 
 footer {
     background-color: #778899;
-}
+    padding: 5px;
+    
+          
+    }
     .block1 {
-    font: bold 18px Arial;
-    color: #2F4F4F;
-    text-align: center;
-    word-spacing: 50px;
+    font: 18px Arial;
     text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;    
+    }
+body {
+    margin: 0;
 }
     
 
